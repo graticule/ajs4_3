@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mnkilr6ab8riopw8?svg=true)](https://ci.appveyor.com/project/graticule/ajs4-3)
